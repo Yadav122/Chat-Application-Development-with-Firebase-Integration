@@ -12,7 +12,7 @@ I am still working on this project and will make changes to it and update its fe
 
 # Screenshots
 
-![Screenshot_20230428-161735](https://user-images.githubusercontent.com/91718064/235136053-099e145b-4820-4977-ac76-4aaab13b3f22.png )
+![Screenshot_20230428-161735](https://user-images.githubusercontent.com/91718064/235136053-099e145b-4820-4977-ac76-4aaab13b3f22.png  )
 
 ![Screenshot_20230428-161743](https://user-images.githubusercontent.com/91718064/235136092-66d7bdac-0bbc-4441-9dac-46ed0ffa0623.png)
 
