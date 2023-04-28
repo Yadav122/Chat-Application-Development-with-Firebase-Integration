@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236586852857",
+    "project_id": "neat-root-whatsapp-e64ff",
+    "storage_bucket": "neat-root-whatsapp-e64ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236586852857:android:690b372ad6a76e54449d28",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236586852857-levk802cnnbfeo4g5mrctud4pm3r6ogk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYkrzdcUbK5MMJWd09cLJXi6qSQwP0fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236586852857-levk802cnnbfeo4g5mrctud4pm3r6ogk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

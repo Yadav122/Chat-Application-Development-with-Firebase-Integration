@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="name">Name</string>
+    <string name="gmail">Gmail</string>
+    <string name="password">Password</string>
+    <string name="text">"Already have Account "</string>
+    <string name="already_have_account">Already have account ?</string>
+    <string name="button">Sign up</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="name1">Sign Up with Phone</string>
+    <string name="x">Click for Sign Up</string>
+    <string name="button1">Sign In</string>
+    <string name="gmail1">Email / Phone</string>
+    <string name="logout">Log Out</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="GroupChat">"Group Chat "</string>
+</resources>
