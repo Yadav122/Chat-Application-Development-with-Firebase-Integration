@@ -1,4 +1,4 @@
-# WhatsApp.Clone
+# Chat Application Development with Firebase Integration
 Created a clone whatsapp using java and firebase(frontend and backend)
 
 # Note
